@@ -181,11 +181,12 @@ To ensure reliable classifications, performance is evaluated using **quantitativ
   - **False Negatives (FN):** Toxic comments the model failed to detect  
 
 ### 3. Classification Report
+
 - **Precision:** Accuracy of positive predictions (minimizes false alarms)  
 - **Recall:** Ability to find all toxic comments (minimizes missed detections)  
 - **F1-Score:** Harmonic mean of Precision and Recall, balancing both metrics; crucial for imbalanced datasets  
 
 ### 4. Qualitative Analysis (Word Clouds)
-
+![image alt](https://github.com/kebojuara/probstat-tugas-2/blob/6417be2a94f7a59790ac51ae919f2346c3010e2a/WhatsApp%20Image%202026-03-14%20at%2019.22.36.jpeg)
 - Generates **Word Clouds** for each category as a visual sanity check  
 - Example: If the "Sexual Harassment" cloud is dominated by expected emojis and keywords, it validates that the model is learning correct semantic patterns
