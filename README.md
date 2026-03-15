@@ -2,7 +2,7 @@
 | ---- | --- | 
 | William Hans Chandra  | 5025241138 |
 | Frenaldy Bestabba Hasugian  | 5025241156 |
-| Muh. Aqil Alqadri Syahid  | 5025241160 |
+| Muh. Aqil Alqadri Syahid  | 5025241161 |
 | Kadek Andra Wikanjaya Putra  | 5025241187 |
 
 
